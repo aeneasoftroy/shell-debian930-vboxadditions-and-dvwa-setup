@@ -6,4 +6,6 @@
 2. insert the vm guest additions iso in the host
 3. run this script
 
+See the script in action on YouTube: https://www.youtube.com/watch?v=i6gzw-x_iBc
+
 ## Stephan
