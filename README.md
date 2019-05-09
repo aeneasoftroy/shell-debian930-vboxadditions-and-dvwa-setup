@@ -8,4 +8,4 @@
 
 See the script in action on YouTube: https://www.youtube.com/watch?v=i6gzw-x_iBc
 
-## Stephan
+## Aeneas of Troy
